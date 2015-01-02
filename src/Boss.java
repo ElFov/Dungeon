@@ -1,5 +1,5 @@
 
-public class Boss extends Entitiies{
+public class Boss extends Entities{
 
 	public Boss() {
 		// TODO Auto-generated constructor stub

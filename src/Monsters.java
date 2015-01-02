@@ -1,5 +1,5 @@
 
-public class Monsters extends Entitiies {
+public class Monsters extends Entities {
 	
 
 	public Monsters() {

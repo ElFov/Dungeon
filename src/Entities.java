@@ -1,5 +1,5 @@
 
-public class Entitiies {
+public class Entities {
 	
 	/*
 	 * This class create default values for the Player and the NPC
@@ -9,7 +9,7 @@ public class Entitiies {
 	 int mp = 1 ;
 	 int ap = 1;
 
-	public Entitiies() {
+	public Entities() {
 		// TODO Auto-generated constructor stub
 		
 
@@ -62,7 +62,7 @@ public class Entitiies {
 		
 	}
 	
-	public void attackEntity(Entitiies newentity){
+	public void attackEntity(Entities newentity){
 		
 		newentity.hp -= this.ap;
 		

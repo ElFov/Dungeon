@@ -1,5 +1,5 @@
 
-public class Player extends Entitiies{
+public class Player extends Entities{
 
 	public Player(String newname) {
 		// TODO Auto-generated constructor stub
